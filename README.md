@@ -2,12 +2,11 @@
 
 
 
+![Screenshot](help.png)
+
+
 
 run 
-
-
-
-
 
 ```
 python3 main.py 
